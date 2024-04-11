@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @grafsamex
-- 👀 I’m interested in ML, data analysis, programming on python, SQL
-- 🌱 I’m currently learning development of bots, django
-- 📫 How to reach me sb@sitada.ru, sergei-3000@yandex.ru
+- 👀 I’m interested programming on python, SQL, data analysis.
+- 👀 I am a system administrator and programmer (data analytics, scripting, writing small programs) in a medical institution, a junior data analyst in the training of the recognition system.
+- 🌱 I’m currently learning process automation, system administrators and devops tools
+- 📫 How to reach me sergei-3000@yandex.ru
 
 
-Интересно участие в проектах по машинному обучению, подготовке, обработке данных. Всегда открыт к предложениям.
+Всегда открыт к предложениям.
 
 <!---
 grafsamex/grafsamex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
