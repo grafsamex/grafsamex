@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grafsamex
-- 👀 I am interested in DEVOPS technologies, programming, and artificial intelligence.
+- 👀 I am interested in DEVOPS, MLOPS, LLMOPS technologies, programming, and artificial intelligence.
 - 🌱 I’m currently learning process automation, system administrators and devops tools
 - 📫 How to reach me sergei-3000@yandex.ru
 
